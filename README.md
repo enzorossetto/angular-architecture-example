@@ -1,6 +1,6 @@
 # AngularArchitectureExample
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.2 and architecture was based on this [article](https://medium.com/@tomastrajan/how-to-build-epic-angular-app-with-clean-architecture-91640ed1656) written by **@tomastrajan**.
 
 ## Development server
 
